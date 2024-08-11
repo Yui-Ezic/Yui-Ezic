@@ -8,24 +8,33 @@
   <strong><a href="https://t.me/Yui_ezic">Telegram</a></strong>
 </p>
 
-## My projects
+## Currently working on
 
-### Currently working on
+### ▶️ [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator)
 
-- [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator) - a custom
-  client-side [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-- [valinor-openapi-serializer](https://github.com/Yui-Ezic/valinor-openapi-serializer?tab=readme-ov-file) -
-  a library to (de)serialize parameters (query, headers, cookie) to/from php objects
-  by [CuyZ/Valinor](https://github.com/CuyZ/Valinor). Part
-  of [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator)
-- Video player for future [SubVost](https://t.me/s/subvost) website. It's not an open source project, but some drafts
-  can be found here: [vidstack-libass-example](https://github.com/Yui-Ezic/vidstack-libass-example)
+> A custom client-side [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
-### On pause
+### ▶️ [valinor-openapi-serializer](https://github.com/Yui-Ezic/valinor-openapi-serializer?tab=readme-ov-file)
 
-- [shikimori-dating](https://github.com/Yui-Ezic/shikimori-dating) - an dating app based
-  on [shikimori](https://shikimori.one/) data
-- [computer-vision-homeworks](https://github.com/Yui-Ezic/computer-vision-homeworks) - homeworks from computer vision
-  course
-- [telegram-recap](https://github.com/Yui-Ezic/telegram-recap) - tool to create a html page with results for the year of
-  group or private chat 
+> A library to (de)serialize parameters (query, headers, cookie) to/from php objects
+by [CuyZ/Valinor](https://github.com/CuyZ/Valinor). Part
+of [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator)
+
+### ▶️ Video player for future [SubVost](https://t.me/s/subvost) website.
+
+> It's not an open source project, but some drafts can be found
+here: [vidstack-libass-example](https://github.com/Yui-Ezic/vidstack-libass-example)
+
+## On pause
+
+### ⏸️ [shikimori-dating](https://github.com/Yui-Ezic/shikimori-dating)
+
+> An dating app based on [shikimori](https://shikimori.one/) data
+
+### ⏸️ [computer-vision-homeworks](https://github.com/Yui-Ezic/computer-vision-homeworks)
+
+> Homeworks from computer vision course
+
+### ⏸️ [telegram-recap](https://github.com/Yui-Ezic/telegram-recap)
+
+> Tool to create a html page with results for the year of group or private chat 
