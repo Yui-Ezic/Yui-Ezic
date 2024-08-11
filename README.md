@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Mykhailo</h1>
-    <h3>Php backend developer from 🇺🇦 Ukraine, currently living in 🇪🇸 Mallorca, Spain</h3>
+    <h3>Php backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> Ukraine, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> Mallorca, Spain</h3>
 </div>
 
 <p align="center">
