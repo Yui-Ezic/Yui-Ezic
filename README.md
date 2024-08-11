@@ -17,13 +17,13 @@
 ### ▶️ [valinor-openapi-serializer](https://github.com/Yui-Ezic/valinor-openapi-serializer?tab=readme-ov-file)
 
 > A library to (de)serialize parameters (query, headers, cookie) to/from php objects
-by [CuyZ/Valinor](https://github.com/CuyZ/Valinor). Part
-of [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator)
+> by [CuyZ/Valinor](https://github.com/CuyZ/Valinor). Part
+> of [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator)
 
 ### ▶️ Video player for future [SubVost](https://t.me/s/subvost) website.
 
 > It's not an open source project, but some drafts can be found
-here: [vidstack-libass-example](https://github.com/Yui-Ezic/vidstack-libass-example)
+> here: [vidstack-libass-example](https://github.com/Yui-Ezic/vidstack-libass-example)
 
 ## On pause
 
