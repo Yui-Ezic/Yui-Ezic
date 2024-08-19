@@ -4,8 +4,7 @@
 </div>
 
 <p align="center">
-  <strong><a href="https://www.linkedin.com/in/mykhailo-zuiev/">LinkedIn</a></strong> |
-  <strong><a href="https://t.me/Yui_ezic">Telegram</a></strong>
+  <strong><a href="https://www.linkedin.com/in/mykhailo-zuiev/">LinkedIn</a></strong>
 </p>
 
 ## Currently working on
