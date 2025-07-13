@@ -7,79 +7,50 @@
   <strong><a href="https://www.linkedin.com/in/mykhailo-zuiev/">LinkedIn</a></strong>
 </p>
 
-## Currently working on
+## Languges
 
-### ▶️ [valinor-openapi-serializer](https://github.com/Yui-Ezic/valinor-openapi-serializer?tab=readme-ov-file)
+- English: B2 [Cambridge FCE Certificate](FCE-Certificate.pdf)
+- Spanish: A1 EOI Spain Certificate, learning A2 in progress
+- Ukrainian, Russian: native
 
-> A library to (de)serialize parameters (query, headers, cookie) to/from php objects
-> by [CuyZ/Valinor](https://github.com/CuyZ/Valinor). Part
-> of [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator)
+## Projects
 
-### ▶️ [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator)
+Most of the time, I work on projects for learning purposes and haven't yet had the opportunity or the right idea to
+create something truly useful for the open-source community. However, I hope to build something impactful in the future.
+In the meantime, feel free to explore some of my personal projects.
 
-> A custom client-side [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+### Projects in progress
 
-### ▶️ Video player for future [SubVost](https://t.me/s/subvost) website.
+#### ▶️ [valinor-openapi-serializer](https://github.com/Yui-Ezic/valinor-openapi-serializer?tab=readme-ov-file): A library to (de)serialize parameters (query, headers, cookie) to/from php objects by [CuyZ/Valinor](https://github.com/CuyZ/Valinor). Part of the [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator)
 
-> It's not an open source project, but some drafts can be found
-> here: [vidstack-libass-example](https://github.com/Yui-Ezic/vidstack-libass-example)
+#### ▶️ [php-openapi-generator](https://github.com/Yui-Ezic/php-openapi-generator): Generates client side code from openapi documents
 
-## On pause
+#### ▶️ Video player for future [SubVost](https://t.me/s/subvost) website: It's not an open source project, but some drafts can be found here: [vidstack-libass-example](https://github.com/Yui-Ezic/vidstack-libass-example)
 
-### ⏸️ [shikimori-dating](https://github.com/Yui-Ezic/shikimori-dating)
+### On pause
 
-> An dating app based on [shikimori](https://shikimori.one/) data
+#### ⏸️ [computer-vision-homeworks](https://github.com/Yui-Ezic/computer-vision-homeworks): Homeworks from computer vision course
 
-### ⏸️ [computer-vision-homeworks](https://github.com/Yui-Ezic/computer-vision-homeworks)
+#### ⏸️ [telegram-recap](https://github.com/Yui-Ezic/telegram-recap): Tool to create a html page with results for the year of group or private chat
 
-> Homeworks from computer vision course
+### Completed
 
-### ⏸️ [telegram-recap](https://github.com/Yui-Ezic/telegram-recap)
+#### ✅ (2023) [chat-link-bot](https://github.com/Yui-Ezic/chat-link-bot): This bot synchronizes a channel on a Discord server with a group chat in Telegram. It simply forwards all messages from Discord to Telegram and vice versa. The bot is hosted on Google Cloud Run and currently lacks documentation.
 
-> Tool to create a html page with results for the year of group or private chat
+#### ✅ (2020) [Z99Compiler](https://github.com/Yui-Ezic/Z99Compiler): This is a compiler (actually an interpreter) for a custom Pascal-like programming language. It's written in PHP 7.3 and was developed solely for educational purposes.
 
-## Completed
+#### ✅ (2020) [Z99Lexer](https://github.com/Yui-Ezic/Z99Lexer): Lexer (tokenizer) for [Z99Compiler](https://github.com/Yui-Ezic/Z99Compiler)
 
-### ✅ (2023) [chat-link-bot](https://github.com/Yui-Ezic/chat-link-bot)
+#### ✅ (2020) [Z99Parser](https://github.com/Yui-Ezic/Z99Parser): Parser for [Z99Compiler](https://github.com/Yui-Ezic/Z99Compiler). Results with [abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 
-> Bot that synchronize channel on discord server and group chat in telegram. Just sends all messages from discord to
-> telegram and vice versa. Hosted on Google cloud run. Has no documentation.
+#### ✅ (2020) [geometric-modeling](https://github.com/Yui-Ezic/geometric-modeling): Homeworks for geometric-modeling course in university. Mostly it's different 3d scenes built using [Three.js](https://threejs.org/) with react.
 
-### ✅ (2020) [Z99Compiler](https://github.com/Yui-Ezic/Z99Compiler)
+#### ✅ (2019) [BarberCRM](https://github.com/Yui-Ezic/BarberCRM): CRM for barbershop (university coursework). Written on Yii2.
 
-> Compiler (actually interpreter) for own Pascal-like programming language. Written on PHP7.3. Not used anywhere, just
-> for educational purposes
+#### ✅ (2019) [images.com-php-up](https://github.com/Yui-Ezic/images.com-php-up): Instagram clone on Yii2.
 
-### ✅ (2020) [Z99Lexer](https://github.com/Yui-Ezic/Z99Lexer)
+#### ✅ (2019) [store-php-start](https://github.com/Yui-Ezic/store-php-start): Simple online store written on pure php without frameworks.
 
-> Lexer (tokenizer) for [Z99Compiler](https://github.com/Yui-Ezic/Z99Compiler)
+#### ✅ (2018) [numerical-methods](https://github.com/Yui-Ezic/Numerical-Methods): Numerical Methods labs 2018 KPI TR-71 on python
 
-### ✅ (2020) [Z99Parser](https://github.com/Yui-Ezic/Z99Parser)
-
-> Parser for [Z99Compiler](https://github.com/Yui-Ezic/Z99Compiler). Results
-> with [abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
-
-### ✅ (2020) [geometric-modeling](https://github.com/Yui-Ezic/geometric-modeling)
-
-> Homeworks for geometric-modeling course in university. Mostly it's different 3d scenes
-> built using [Three.js](https://threejs.org/) with react.
-
-### ✅ (2019) [BarberCRM](https://github.com/Yui-Ezic/BarberCRM)
-
-> CRM for barbershop (university coursework). Written on Yii2.
-
-### ✅ (2019) [images.com-php-up](https://github.com/Yui-Ezic/images.com-php-up)
-
-> Instagram clone on Yii2.
-
-### ✅ (2019) [store-php-start](https://github.com/Yui-Ezic/store-php-start)
-
-> Simple online store written on pure php without frameworks.
-
-### ✅ (2018) [numerical-methods](https://github.com/Yui-Ezic/Numerical-Methods)
-
-> Numerical Methods labs 2018 KPI TR-71 on python
-
-### ✅ (2017) [Calculator](https://github.com/Yui-Ezic/calculator)
-
-> Simple desktop calculator on C# with GUI
+#### ✅ (2017) [Calculator](https://github.com/Yui-Ezic/calculator): Simple desktop calculator on C# with GUI
